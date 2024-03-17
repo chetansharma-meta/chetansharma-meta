@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chetan Sharma</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chetan-sharma-442b28210/" target="_blank" rel="noreferrer">Chetan Sharma</a> is a passionate Full Stack Developer from India, working on MERN Stackas a fresher. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chetan-sharma-442b28210/" target="_blank" rel="noreferrer">Chetan Sharma</a> is a passionate Full Stack Developer from India, working on MERN Stack as a fresher. Feel free to reach out for any Freelance Projects.</font></h3>
 
 
 <!-- GIF -->
