@@ -46,7 +46,7 @@
 <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="100" height="100"/>
 </p>
 
-#### Editor / IDE I ♥
+#### Editor 
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="100" height="100"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="100" height="100"/> </p>
