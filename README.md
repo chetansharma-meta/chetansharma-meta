@@ -47,13 +47,14 @@
 </p>
 
 #### Editor / IDE I ♥
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="100" height="100"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="100" height="100"/> </p>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+- 💬 Ask me about **Full Stack**
+- 📫 How to reach me **[chetansharma.meta@gmail.com](mailto:chetansharma.meta@gmail.com)**
