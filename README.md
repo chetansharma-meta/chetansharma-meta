@@ -56,5 +56,5 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **Full Stack**
+- 💬 Ask me about **Full Stack Dev**
 - 📫 How to reach me **[chetansharma.meta@gmail.com](mailto:chetansharma.meta@gmail.com)**
