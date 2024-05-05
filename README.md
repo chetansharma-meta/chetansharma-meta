@@ -10,7 +10,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on ReactJS, ExpressJS, ThreeJS and everything around it.
+- I work on NextJS, ReactJS, ThreeJS and everything around it.
 - I’m learning **Machine Learning** and **A.I**
 
 
