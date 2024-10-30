@@ -29,12 +29,13 @@
 #### FrontEnd Stack
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" title="react" width="110" height="100"/> 
-<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxslkwshh8puehkg1vzu0.png" alt="next" title="next" width="170" height="100"/> 
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" title="next" width="100" height="100"/> 
 <img src="https://miro.medium.com/v2/resize:fit:687/1*m0zrCLd2wY29-jiHaxYsgA.png" alt="threejs" title="threejs" width="170" height="100"/>
 </p>
 
 #### BackEnd Stack 
 <p align="left">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" title="Springboot" width="100" height="100"/> 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="expressjs" title="expressjs" width="170" height="100"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" title="nodejs" width="150" height="50"/>  
 </p>
