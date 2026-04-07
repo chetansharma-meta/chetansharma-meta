@@ -1,60 +1,64 @@
-<!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chetan Sharma</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chetan-sharma-442b28210/" target="_blank" rel="noreferrer">Chetan Sharma</a> is a passionate Java Developer from India. </font></h3>
-
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
-
-- I work on Spring-Boot, Spring-Security, Spring-JPA and everything around it.
-- I’m learning **Machine Learning** and **A.I**
-
-
-
-#### Programming Language Stack
-<p align="left"><img src="https://static-00.iconduck.com/assets.00/java-icon-756x1024-si1cd6qx.png" alt="java" title="java" width="100" height="120"/>  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="100" height="100"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="js" title="js" width="100" height="100"/> 
+<h3 align="center"><font face="Arial">Associate Software Developer at <a href="https://www.antino.io/" target="_blank">Antino Labs</a></font></h3>
+<p align="center">
+  <font face="Arial">
+    Focused on building scalable enterprise microservices and AI-driven document intelligence.
+  </font>
 </p>
 
-#### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="100" height="100"/>  
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="100" height="100"/>  
-  <img src="https://www.techspot.com/images2/downloads/topdownload/2019/04/2019-04-22-ts3_thumbs-4ab.png" alt="kali" title="kali" width="100" height="100"/> </p>
+<img align="right" height="300" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-#### FrontEnd Stack
+<h3 align="left"><font size="+2" face="Verdana">About Me:</font></h3>
+
+- 🏢 **Currently**: Working as an Associate Software Developer at **Antino Labs**.
+- 🚀 **Latest Project**: Built **MongoSemantic**, an AI-driven RAG pipeline using MongoDB Atlas Vector Search and GPT-4.
+- ⚙️ **Expertise**: Java 21, Spring Boot 3.5, Microservices, and Apache Kafka.
+- 🧠 **Learning**: Advanced AI/ML integration and Go (Golang).
+- 🏆 **Achievements**: First Runner-Up at Antino Labs Hackathon (2025) & Winner of GLA University Ideathon.
+
+<h3 align="left"><font size="+2" face="Verdana">Tech Stack:</font></h3>
+
+#### 🛠 Backend & Core
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" title="react" width="110" height="100"/> 
-<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" title="next" width="100" height="100"/> 
-<img src="https://miro.medium.com/v2/resize:fit:687/1*m0zrCLd2wY29-jiHaxYsgA.png" alt="threejs" title="threejs" width="170" height="100"/>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-#### BackEnd Stack 
+#### 🤖 AI & Machine Learning
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" title="Springboot" width="100" height="100"/> 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="expressjs" title="expressjs" width="170" height="100"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" title="nodejs" width="150" height="50"/>  
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Search-00A35C?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=for-the-badge" />
 </p>
 
-#### Project Management Stack
+#### ☁️ Cloud & DevOps
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="100" height="100"/>  
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="100" height="100"/> 
-<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="100" height="100"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-#### Editor 
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="100" height="100"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="100" height="100"/> </p>
-
-<!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/chetan-sharma-442b28210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan-sharma-linkedin" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/chetansharma_meta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chetansharma-leetcode" height="30" width="40" /></a>
 </p>
 
-- 💬 Ask me about **Full Stack Dev**
-- 📫 How to reach me **[chetansharma.meta@gmail.com](mailto:chetansharma.meta@gmail.com)**
+- 💬 Ask me about **Microservices, Event-Driven Architecture, or RAG Pipelines**
+- 📫 Reach me at: **[chetansharma.meta@gmail.com](mailto:chetansharma.meta@gmail.com)**
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetansharma-meta&show_icons=true&theme=radical" alt="Chetan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetansharma-meta&theme=radical" alt="Chetan's GitHub Streak" />
+</p>
